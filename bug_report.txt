@@ -1,0 +1,13 @@
+Environment: Win 10Pro Opera 93;
+Title:Infinite loading "MT4" app's page in App Store by clicking icon [Apple Store] in block "Download" in [MetaTrader 4]-> [Products]. ;
+Steps: 1. Navigate to capital.com
+2. Click button [Burger menu]
+3. Click menu section [Products]
+4. Click menu item [MetaTrader 4]
+5. Click icon [Apple Store];
+Expected Result: App's "MT4" page in App Store is displayed. ;
+Actual Result: Infinite loading "MT4" app's page in App Store.;
+Link:https://drive.google.com/file/d/1V3jC24s9RGpd_SUHb1HBpWP1wz9rbYGq/view?usp=sharing ;
+License: ASIC, NBRB, FSA, CYSEC;
+Role (unregistered, unauthorized, authorized, All):ALL ;
+Telegram @nick:@BerSerker15 ;
