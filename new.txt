@@ -1,0 +1,4 @@
+full name: Said Sharapudinov.
+Age: 18.
+number of pets: 0.
+future desired salary: 1200$
