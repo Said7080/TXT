@@ -1,0 +1,5 @@
+Favorite movie: 1+1.
+Favorite TV series: Баки.
+Favorite food: Julien.
+Favorite time of year: summer;
+Country i want to visit: Italy.
