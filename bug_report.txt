@@ -1,13 +1,10 @@
-Environment: Win 10Pro Opera 93;
-Title:Infinite loading "MT4" app's page in App Store by clicking icon [Apple Store] in block "Download" in [MetaTrader 4]-> [Products]. ;
-Steps: 1. Navigate to capital.com
-2. Click button [Burger menu]
-3. Click menu section [Products]
-4. Click menu item [MetaTrader 4]
-5. Click icon [Apple Store];
-Expected Result: App's "MT4" page in App Store is displayed. ;
-Actual Result: Infinite loading "MT4" app's page in App Store.;
-Link:https://drive.google.com/file/d/1V3jC24s9RGpd_SUHb1HBpWP1wz9rbYGq/view?usp=sharing ;
-License: ASIC, NBRB, FSA, CYSEC;
-Role (unregistered, unauthorized, authorized, All):ALL ;
-Telegram @nick:@BerSerker15 ;
+Структура баг_репорта:
+1)Environment - (версия браузера или версия IOS или верися Android) и т.д
+2)Title - Короткое описание
+3)Steps to reproduce - Шаги воспроизведения
+4)Expected result - Ожидаемый результат
+5)Actual result - Фактический результат
+6)Attachments - Вложение(видео, скрины, гифка и т.д)
+7)Severity - Серьезность бага
+8)Priority - Приоритетность бага
+9)Status - Текущее состояние бага(исправлен, не исправлен и т.д)
